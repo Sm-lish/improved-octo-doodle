@@ -2,7 +2,7 @@
 <!doctype>
 <htm>
   <head> 
-    <title>Hello Everbody</htm>
+    <title>Hello Everbody</title>
   </head>
   <body> 
     <h1> Introduction to me</h1>
@@ -11,3 +11,4 @@
       with javascript so i could get a full understanding. i learned the bascis of html. i started now
       css and its really inda confusing , i understand it but i when i code , I forget where to use it.
       Please help me how to get better in coding </p>
+    </htm>
