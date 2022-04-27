@@ -1,9 +1,5 @@
 # improved-octo-doodle
-<!doctype>
-<htm>
-  <head> 
-    <title>Hello Everbody</title>
-  </head>
+
   <body> 
     <h1> Introduction to me</h1>
     <p>I am a begginer to web developing , i am new and i just know some basics about html
